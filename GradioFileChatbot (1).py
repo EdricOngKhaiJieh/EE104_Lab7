@@ -4,7 +4,7 @@ import PyPDF2
 import openai  # Import OpenAI for actual API calls
 
 # Replace with your actual OpenAI API key
-API_KEY = "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"  # Replace this with your OpenAI API key
+API_KEY = "Secret API key"  # Replace this with your OpenAI API key
 openai.api_key = API_KEY
 
 def read_text_from_file(file_path):
